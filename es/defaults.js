@@ -10,6 +10,6 @@ export var breakPoints = {
   // an ipad in portrait mode will match here even though the width might be
   // 1024, 1112, or 1366. for now leave as is - in the future we could handle
   // this by compiling a list of resolutions but that's a huge undertaking.
-  tablet: 1300
+  tablet: 1400
 };
 //# sourceMappingURL=defaults.js.map
